@@ -51,6 +51,7 @@ In order to defeat the modulo situation, we just need not to have negative numbe
 About spaces, we had to change the control character to something that was not used, I chose the tabulation as it was easy to do.
 
 The operations we will do will thus be the following:
+
     DonJohn = 0
     DonPedro = 0
     
